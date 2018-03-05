@@ -23,5 +23,5 @@ function deviceInfo() {
 
 function personalInfo(){
 	personalStuff = 'Rafał Kwiecień 187161 UEK Informatyka Stosowana';
-	navigator.notification.alert(personalInfo);
+	navigator.notification.alert(personalStuff);
 }
