@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function personalInfo(){
+	personalStuff = 'Rafał Kwiecień 187161 UEK Informatyka Stosowana';
+	navigator.notification.alert(info);
+}
